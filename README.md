@@ -1,1 +1,1 @@
-![kukuh satrio](./images/Frame2.gif)
+![kukuh satrio](./images/banner.gif)
