@@ -1,1 +1,1 @@
-![kukuh satrio](./images/banner.png)
+![kukuh satrio](./images/banner2.png)
